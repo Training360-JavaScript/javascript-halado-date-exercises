@@ -1,9 +1,9 @@
 # Feladatok
 
-**A 07-date -> 01-03 -> solution mappákban dolgozz!**
-**A HTML-fájlokat ne módosítsd!**
-**Az export utasításokat hagyd a fájlok végén!**
-**Az `npm run test:date` parancs futtatásával tudod futtatni a teszteket!**
+**A 07-date -> 01-03 -> solution mappákban dolgozz!**  
+**A HTML-fájlokat ne módosítsd!**  
+**Az export utasításokat hagyd a fájlok végén!**  
+**Az `npm run test:date` parancs futtatásával tudod futtatni a teszteket!**  
 
 1. Írj egy függvényt `getSecondsOfThisYearUntilNow` néven, aminek a visszatérési értéke az adott év 01.01. óta eltelt másodperceinek a száma!
 
